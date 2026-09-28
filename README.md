@@ -1,3 +1,4 @@
+<img width="1446" height="735" alt="Screenshot 2026-09-28 at 11 19 42 PM" src="https://github.com/user-attachments/assets/dfdbc81f-c1bd-46c7-be9f-21a9cb05d5a7" />
 # ShopAssist: AI support agent for e-commerce
 
 A customer-support agent for an online store that **takes real actions** with tool calling: it looks up orders, recommends products, answers from official policies, starts returns (only after the customer approves), and hands off to a human with a written summary. Every tool call is logged to an operations dashboard.
